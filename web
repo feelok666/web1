@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    WEB1
+  </title>
+  <meta charset="utf-8">
+  <style>
+  table, th, td{border: 0.5px solid black;}
+  </style>
+</head>
+
+<body>
+<h1><a href="file:///C:/Users/Administrator/Desktop/%EA%B0%9C%EC%9D%B8/web/web">WEB</a></h1>
+<ol>
+  <li><a href="file:///C:/Users/Administrator/Desktop/%EA%B0%9C%EC%9D%B8/web/html"title="html5">HTML</a></li>
+  <li><a href="file:///C:/Users/Administrator/Desktop/%EA%B0%9C%EC%9D%B8/web/CSS" title="WEB1-CSS">CSS</a></li>
+  <li><a href="file:///C:/Users/Administrator/Desktop/%EA%B0%9C%EC%9D%B8/web/JavaScript" title="WEB1-CSS">JavaScript</a></li>
+</ol>
+
+
+<h2>WEB</h2>
+<p>The World Wide Web (abbreviated WWW or the Web) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the Internet.[1] English scientist Tim Berners-Lee invented the World Wide Web in 1989. He wrote the first web browser computer program in 1990 while employed at CERN in Switzerland.[2][3] The Web browser was released outside of CERN in 1991, first to other research institutions starting in January 1991 and to the general public on the Internet in August 1991.</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+<table style="width:20%">
+<tr>
+  <th>성</th>
+  <th>이름</th>
+  <th>나이</th>
+</tr>
+<tr>
+  <td>김</td>
+  <td>기업</td>
+  <td>30</td>
+</tr>
+<tr>
+  <td>이</td>
+  <td>동진</td>
+  <td>26</td>
+</tr>
+</table>
+</body>
+</html>

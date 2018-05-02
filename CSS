@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>
+    WEB1
+  </title>
+  <meta charset="utf-8">
+  <style>
+  table, th, td{border: 0.5px solid black;}
+  </style>
+</head>
+
+<body>
+<h1><a href="file:///C:/Users/Administrator/Desktop/%EA%B0%9C%EC%9D%B8/web/web">WEB</a></h1>
+<ol>
+  <li><a href="file:///C:/Users/Administrator/Desktop/%EA%B0%9C%EC%9D%B8/web/html"title="html5">HTML</a></li>
+  <li><a href="file:///C:/Users/Administrator/Desktop/%EA%B0%9C%EC%9D%B8/web/CSS" title="WEB1-CSS">CSS</a></li>
+  <li><a href="file:///C:/Users/Administrator/Desktop/%EA%B0%9C%EC%9D%B8/web/JavaScript" title="WEB1-CSS">JavaScript</a></li>
+</ol>
+
+<h2>CSS</h2>
+<p>Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language. Although most often used to set the visual style of web pages and user interfaces written in HTML and XHTML, the language can be applied to any XML document, including plain XML, SVG and XUL, and is applicable to rendering in speech, or on other media. Along with HTML and JavaScript, CSS is a cornerstone technology used by most websites to create visually engaging webpages, user interfaces for web applications, and user interfaces for many mobile applications.</p>
+
+
+<br>
+<br>
+<br>
+<br>
+
+
+<table style="width:20%">
+<tr>
+  <th>성</th>
+  <th>이름</th>
+  <th>나이</th>
+</tr>
+<tr>
+  <td>김</td>
+  <td>기업</td>
+  <td>30</td>
+</tr>
+<tr>
+  <td>이</td>
+  <td>동진</td>
+  <td>26</td>
+</tr>
+</table>
+</body>
+</html>
